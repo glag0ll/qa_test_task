@@ -6,7 +6,7 @@
 
 Для работы с данным проектом необходимо установить следующие инструменты и библиотеки:
 
-[Pycharm](https://www.jetbrains.com/pycharm/download/) (необходимо наличие VPN), [git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/release/python-3133/), [Google Chrome](https://www.google.com/intl/ru_ru/chrome/) , а так же установить библиотеки pytest(версии 8.3.5) и Selenium(версии 4.32.0) с помощью команды pip install pytest==8.3.5 selenium==4.32.0) в терминале проекта.
+[Pycharm](https://www.jetbrains.com/pycharm/download/) (необходимо наличие VPN), [git](https://git-scm.com/downloads), [Python](https://www.python.org/downloads/release/python-3133/), [Google Chrome](https://www.google.com/intl/ru_ru/chrome/) , а так же установить библиотеки pytest(версии 8.3.5) и Selenium(версии 4.32.0) с помощью команды pip install pytest==8.3.5 selenium==4.32.0 в терминале проекта.
 
 ## Documentation / Документация
 
