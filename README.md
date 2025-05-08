@@ -21,7 +21,7 @@
 - [glagol](https://github.com/glag0ll)
 
   <p align="center">
-   <img src="https://img.shields.io/badge/Python version-3.12.9-green" alt="Python version: 3.13.3">
-   <img src="https://img.shields.io/badge/Selenium version-4.30.0-brightgreen" alt="Selenium version: 4.32.0">
+   <img src="https://img.shields.io/badge/Python version-3.13.3-green" alt="Python version: 3.13.3">
+   <img src="https://img.shields.io/badge/Selenium version-4.32.0-brightgreen" alt="Selenium version: 4.32.0">
    <img src="https://img.shields.io/badge/Used browser-Chrome-blue" alt="Used browser: Chrome">
 </p>
